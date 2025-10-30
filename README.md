@@ -1,5 +1,3 @@
-## NAME : JANANI S
-## REG NO : 212223230086
 ### EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 30.10.2025
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
